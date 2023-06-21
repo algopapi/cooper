@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: 'Canela';
-    src: url('https://cdn.jsdelivr.net/gh/algopapi/cooper/Canela-Light-Trial.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/algopapi/cooper/Canela-Light-Trial.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
@@ -12,7 +12,7 @@
 
 @font-face {
     font-family: 'Bagoss';
-    src: url('https://cdn.jsdelivr.net/gh/algopapi/cooper/BagossTRIALVF-1.ttf') format('truetype'),
+    src: url('https://cdn.jsdelivr.net/gh/algopapi/cooper/BagossTRIALVF-1.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
